@@ -5,6 +5,7 @@
 | Feature              | Description                                                     | Assessment |
 | -------------------- | --------------------------------------------------------------- | ---------- |
 | G-code Generation    | Translate internal tool path to machine-specific G-code dialect | DONE       |
+| set feedrate         | move all paths to use common FeedRate.py                        | naive _isVertical test sets V or H only  |
 | Output Customization | Line numbers, comments, units (G20/G21)                         | DONE       |
 
 ---
