@@ -90,8 +90,8 @@
 
 | Feature            | Description                                   | Assessment |
 | ------------------ | --------------------------------------------- | ---------- |
-| Order Optimization | Automatically sort drill order for efficiency | NO         |
-| Efficient Cycles   | Minimize wasted travel in canned cycles       | NO         |
+| Order Optimization | Automatically sort drill order for efficiency | NONE             |
+| Efficient Cycles   | Minimize wasted travel in canned cycles       | PR #22602        |
 
 #### Boring Cycles
 
