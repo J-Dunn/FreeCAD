@@ -56,6 +56,9 @@ Minimising rapids between holes gains nothing over all and leads to rather arbit
 | Engrave text       | Allow operating on a text                                                                                                                                 | DONE       |
 | Engrave centerline | TrueType fonts usually don't work well for engraving.<br>Single-line fonts are rare and limited. Engraving software that follows font centerline is ideal | NONE       |
 |                    |                                                                                                                                                           |            |
+### 3D operations
+| Feature                     | Description                                                | Assessment |
+| 3D Surface                  | True 3D cartesian paths.                                   | WORKS. Very slow, no break out<br>Needs speed improvements and abort mechanism |
 
 ---
 
